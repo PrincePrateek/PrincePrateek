@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prince Prateek
 - 👀 I’m interested in Machine Learning and Artifical intelligence
-- 🌱 I’m currently Mtech in Machine Learning and Artificial intelligence
+- 🌱 I’m pursuing Mtech in Machine Learning and Artificial intelligence from IIT
 - 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me prateek.1@iitj.ac.in
 
